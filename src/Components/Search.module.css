@@ -1,0 +1,96 @@
+.primary{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.imagen{
+    width: 4%;
+
+}
+
+.main{
+    display: flex;
+    flex-wrap:wrap;
+    text-align: left;
+   background-image: url(https://img.freepik.com/vector-gratis/fondo-textura-fibra-carbono-negro_1017-23627.jpg);
+   color: white;
+   
+}
+
+form{
+    margin-top: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+form label{
+    
+    font-size: x-large;
+
+    
+}
+
+form input{
+   
+    width: 40%;
+    border-style: outset;
+    text-align: center;
+   
+}
+
+.boton{
+
+    width: fit-content;
+    cursor: pointer;
+    border-radius: 5px;
+    border-color: black;
+
+}
+.boton:hover{
+    background-color: black;
+    color: yellow;
+}
+
+.containerindividual{
+
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    
+    border-radius: 10px;
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/613/926/508/abstract-shapes-black-wave-yellow-hd-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+    justify-content: center;
+    flex-direction: column;
+    width: 700px;
+    margin-left: 24%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+
+h3{
+    font-size: xx-large;
+    color: yellow;
+}
+h4{
+    font-size: x-large;
+    color: yellow;
+    margin-top: 11%;
+}
+.h55{
+    font-size: larger;
+    color: white;
+}
+
+.linea {
+    border-top: 1px solid white;
+  height: 2px;
+  padding: 0;
+  margin: 20px auto 0 auto;
+  }
+ 
